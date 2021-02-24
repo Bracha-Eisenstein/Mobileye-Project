@@ -1,4 +1,7 @@
-import controller
+from Controller.controller import Controller
+
 
 if __name__ == "__main__":
-    controller.run(playlist)
+    ctrl = Controller("Model/playlist.pls")
+    ctrl.run()
+
