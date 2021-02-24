@@ -13,4 +13,4 @@ Estimating the distance to each detected traffic light from the camera picturing
 ## Phase IV: Software integration
 Integrating all previous parts into a functional and intuitive SW product.
 
-In my project i used a design pattern MVC.
+### In my project i used a design pattern MVC.
